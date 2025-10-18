@@ -1,3 +1,54 @@
+[**🇬🇧 English Version**](#-english-version) | [**🇷🇺 Русская версия**](#-русская-версия)
+
+---
+
+## 🇬🇧 English Version
+
+# 🧠 HTB Writeups
+
+Welcome to my repository with solutions for Hack The Box challenges!  
+Here I publish detailed write-ups for CTF challenges of various categories—from **pwn** and **crypto** to **quantum** and **misc**.  
+Each solution is accompanied by analysis, a step-by-step explanation, scripts, and results.
+
+---
+
+## 📜 Solved Challenges
+
+| Category | Name | Difficulty | Link |
+|------------|-----------|------------|--------|
+| 🧩 Quantum | **Flagportation** | Very Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Flagportation/README.md) |
+
+---
+
+## 🚧 Future Plans
+
+💡 In the future, new solutions for other HackTheBox categories will appear here:  
+- 🔐 **Crypto** — cryptography and non-standard ciphers
+- 🧑‍💻 **Pwn** — binary exploitation
+- 🌐 **Web** — server and front-end vulnerabilities
+- ⚙️ **Misc / Reversing** — various non-standard tasks
+
+Stay tuned—I am gradually adding new write-ups and automating data collection (the repository will grow).
+
+---
+
+## 📬 Contacts
+
+If you want to discuss solutions, suggest an idea, or collaborate:
+
+- 💻 GitHub: [@vt72983](https://github.com/vt72983)
+- 🧩 HTB: [vt729830](https://app.hackthebox.com/users/1501105)
+- ✉️ Email: *vt72983@bugcrowdninja.com*
+
+---
+
+> ⭐ Don't forget to star the repository if you liked the write-ups—it motivates me to do more and better!
+
+---
+---
+
+## 🇷🇺 Русская версия
+
 # 🧠 HTB Writeups
 
 Добро пожаловать в мой репозиторий с решениями задач Hack The Box!  
@@ -36,4 +87,4 @@ Stay tuned — я постепенно добавляю новые write-ups и 
 
 ---
 
-> ⭐ Не забудь поставить звёздочку репозиторию, если тебе понравились write-ups — это мотивирует делать больше и лучше!
+> ⭐ Не забудь поставить звёздочку репозиторию, если тебе понравились write-ups — это мотивирует делать больше и лучше
