@@ -17,6 +17,7 @@ Each solution is accompanied by analysis, a step-by-step explanation, scripts, a
 | Category | Name | Difficulty | Link |
 |------------|-----------|------------|--------|
 | 🧩 Quantum | **Flagportation** | Very Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Flagportation/README.md) |
+| ⚙️ Reversing | **Exation** | Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Exatlon/readme.md) |
 
 ---
 
@@ -62,6 +63,7 @@ If you want to discuss solutions, suggest an idea, or collaborate:
 | Категория | Название | Сложность | Ссылка |
 |------------|-----------|------------|--------|
 | 🧩 Quantum | **Flagportation** | Very Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Flagportation/README.md) |
+| ⚙️ Reversing | **Exation** | Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Exatlon/readme.md) |
 
 ---
 
