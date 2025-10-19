@@ -18,6 +18,7 @@ Each solution is accompanied by analysis, a step-by-step explanation, scripts, a
 |------------|-----------|------------|--------|
 | 🧩 Quantum | **Flagportation** | Very Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Flagportation/README.md) |
 | ⚙️ Reversing | **Exation** | Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Exatlon/readme.md) |
+| 🧠 AI - ML | **Prometheon** | Medium | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Prometheon/readme.md) |
 
 ---
 
@@ -64,6 +65,7 @@ If you want to discuss solutions, suggest an idea, or collaborate:
 |------------|-----------|------------|--------|
 | 🧩 Quantum | **Flagportation** | Very Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Flagportation/README.md) |
 | ⚙️ Reversing | **Exation** | Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Exatlon/readme.md) |
+| 🧠 AI - ML | **Prometheon** | Medium | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Prometheon/readme.md) |
 
 ---
 
