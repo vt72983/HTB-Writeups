@@ -1,4 +1,4 @@
-# HTB Write-up: Exation
+# HTB Write-up: Exatlon
 
 Link - https://app.hackthebox.com/challenges/Exatlon
 
