@@ -19,6 +19,7 @@ Each solution is accompanied by analysis, a step-by-step explanation, scripts, a
 | Category | Name | Difficulty | Link |
 |------------|-----------|------------|--------|
 | 🧩 Quantum | **Flagportation** | Very Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Flagportation/README.md) |
+| 🧩 Quantum | **Global Hyperlink Zone** | Very Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Global-Hyperlink-Zone/README.md) |
 | ⚙️ Reversing | **Exation** | Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Exatlon/readme.md) |
 | 🧠 AI - ML | **Prometheon** | Medium | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Prometheon/readme.md) |
 
@@ -66,6 +67,7 @@ If you want to discuss solutions, suggest an idea, or collaborate:
 | Категория | Название | Сложность | Ссылка |
 |------------|-----------|------------|--------|
 | 🧩 Quantum | **Flagportation** | Very Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Flagportation/README.md) |
+| 🧩 Quantum | **Global Hyperlink Zone** | Very Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Global-Hyperlink-Zone/README.md) |
 | ⚙️ Reversing | **Exation** | Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Exatlon/readme.md) |
 | 🧠 AI - ML | **Prometheon** | Medium | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Prometheon/readme.md) |
 
