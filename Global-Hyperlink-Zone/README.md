@@ -1,8 +1,9 @@
 # HTB Write-up: Global Hyperlink Zone
 
+Link - https://app.hackthebox.com/challenges/Global%2520Hyperlink%2520Zone
+
 [English](#english) · [Русский](#русский)
 
-Link - https://app.hackthebox.com/challenges/Global%2520Hyperlink%2520Zone
 ---
 
 ## English
