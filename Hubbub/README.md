@@ -322,7 +322,7 @@ else:
 
 **Вывод в IDA Pro:**
 ```
---- Hubbub Morse Solver by vt729830---
+--- Hubbub Morse Solver от vt729830---
 [+] Morse: ....|-|-... .- -.|---|..|...|-.-- -...|..-|--..|--..|.|.-. -.-.|---|--|--|.-|-.|-..|... .-|-|-|.|-.|-|..|---|-.
 [+] FLAG:  HTB A NOISY BUZZER COMMANDS ATTENTION
 ```
