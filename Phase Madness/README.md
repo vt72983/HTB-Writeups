@@ -1049,7 +1049,7 @@ Of course, I wanted to improve it further, but at that point, the flag was becom
 HTB{**_*****_***********_**_***_**_*****_*******************_***_***********}
 ```
 
-And so, another flag (a very difficult one in terms of math, but still...) that I got on HackTheBox ;)
+And that's how I captured another flag on HackTheBox — a very tricky one mathematically, but satisfying nonetheless ;)
 
 ![getting the flag](1.jpg)
 
