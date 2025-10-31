@@ -18,14 +18,15 @@ Each solution is accompanied by analysis, a step-by-step explanation, scripts, a
 
 | Category | Name | Difficulty | Link |
 |------------|-----------|------------|--------|
-| 🧩 Quantum | **Flagportation** | Very Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Flagportation/README.md) |
-| 🧩 Quantum | **Global Hyperlink Zone** | Very Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Global-Hyperlink-Zone/README.md) |
-| ⚙️ Reversing | **Exatlon** | Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Exatlon/readme.md) |
-| ⚙️ Reversing | **Hubbub** | Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Hubbub/README.md) |
-| ⚙️ Reversing | **Bypass** | Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Bypass/README.md) |
-| ⚙️ Reversing | **BinCrypt Breaker** | Medium | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/BinCrypt%20Breaker/README.md) |
-| 🎮 GamePwn | **Nostalgia** | Medium | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Nostalgia/README.md) |
-| 🧠 AI - ML | **Prometheon** | Medium | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Prometheon/readme.md) |
+| 🧩 Quantum | **Flagportation** | Very Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Flagportation/README.md#english) |
+| 🧩 Quantum | **Global Hyperlink Zone** | Very Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Global-Hyperlink-Zone/README.md#english) |
+| 🧩 Quantum | **Phase Madness** | Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Phase%20Madness/README.md#english) |
+| ⚙️ Reversing | **Exatlon** | Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Exatlon/readme.md#english) |
+| ⚙️ Reversing | **Hubbub** | Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Hubbub/README.md#english) |
+| ⚙️ Reversing | **Bypass** | Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Bypass/README.md#english) |
+| ⚙️ Reversing | **BinCrypt Breaker** | Medium | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/BinCrypt%20Breaker/README.md#english) |
+| 🎮 GamePwn | **Nostalgia** | Medium | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Nostalgia/README.md#english) |
+| 🧠 AI - ML | **Prometheon** | Medium | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Prometheon/readme.md#english) |
 
 ---
 
@@ -70,14 +71,15 @@ If you want to discuss solutions, suggest an idea, or collaborate:
 
 | Категория | Название | Сложность | Ссылка |
 |------------|-----------|------------|--------|
-| 🧩 Quantum | **Flagportation** | Very Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Flagportation/README.md) |
-| 🧩 Quantum | **Global Hyperlink Zone** | Very Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Global-Hyperlink-Zone/README.md) |
-| ⚙️ Reversing | **Exatlon** | Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Exatlon/readme.md) |
-| ⚙️ Reversing | **Hubbub** | Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Hubbub/README.md) |
-| ⚙️ Reversing | **Bypass** | Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Bypass/README.md) |
-| ⚙️ Reversing | **BinCrypt Breaker** | Medium | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/BinCrypt%20Breaker/README.md) |
-| 🎮 GamePwn | **Nostalgia** | Medium | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Nostalgia/README.md) |
-| 🧠 AI - ML | **Prometheon** | Medium | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Prometheon/readme.md) |
+| 🧩 Quantum | **Flagportation** | Very Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Flagportation/README.md#русский) |
+| 🧩 Quantum | **Global Hyperlink Zone** | Very Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Global-Hyperlink-Zone/README.md#русский) |
+| 🧩 Quantum | **Phase Madness** | Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Phase%20Madness/README.md#русский) |
+| ⚙️ Reversing | **Exatlon** | Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Exatlon/readme.md#русский) |
+| ⚙️ Reversing | **Hubbub** | Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Hubbub/README.md#русский) |
+| ⚙️ Reversing | **Bypass** | Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Bypass/README.md#русский) |
+| ⚙️ Reversing | **BinCrypt Breaker** | Medium | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/BinCrypt%20Breaker/README.md#русский) |
+| 🎮 GamePwn | **Nostalgia** | Medium | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Nostalgia/README.md#русский) |
+| 🧠 AI - ML | **Prometheon** | Medium | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Prometheon/readme.md#русский) |
 
 ---
 
