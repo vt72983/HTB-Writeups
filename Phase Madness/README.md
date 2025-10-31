@@ -105,7 +105,6 @@ class LocalProc(Communicator):
         while True:
             c = self.p.stdout.read(1)
             if not c:
-                # process closed, return what we have
                 return data
             data += c
             if token in data:
