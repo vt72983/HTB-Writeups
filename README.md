@@ -22,6 +22,7 @@ Each solution is accompanied by analysis, a step-by-step explanation, scripts, a
 | 🧩 Quantum | **Global Hyperlink Zone** | Very Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Global-Hyperlink-Zone/README.md) |
 | ⚙️ Reversing | **Exatlon** | Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Exatlon/readme.md) |
 | ⚙️ Reversing | **Hubbub** | Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Hubbub/README.md) |
+| ⚙️ Reversing | **Bypass** | Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Bypass/README.md) |
 | 🎮 GamePwn | **Nostalgia** | Medium | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Nostalgia/README.md) |
 | 🧠 AI - ML | **Prometheon** | Medium | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Prometheon/readme.md) |
 
@@ -72,6 +73,7 @@ If you want to discuss solutions, suggest an idea, or collaborate:
 | 🧩 Quantum | **Global Hyperlink Zone** | Very Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Global-Hyperlink-Zone/README.md) |
 | ⚙️ Reversing | **Exatlon** | Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Exatlon/readme.md) |
 | ⚙️ Reversing | **Hubbub** | Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Hubbub/README.md) |
+| ⚙️ Reversing | **Bypass** | Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Bypass/README.md) |
 | 🎮 GamePwn | **Nostalgia** | Medium | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Nostalgia/README.md) |
 | 🧠 AI - ML | **Prometheon** | Medium | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Prometheon/readme.md) |
 
