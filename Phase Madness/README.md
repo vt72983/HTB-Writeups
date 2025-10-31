@@ -5,8 +5,11 @@
 ## Русский
 
 **Название:** Phase Madness
+
 **Категория:** Quantum
+
 **Сложность:** Easy
+
 **Ссылка:** https://app.hackthebox.com/challenges/Phase%20Madness
 
 ---
