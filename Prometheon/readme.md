@@ -42,7 +42,7 @@ The core strategy is to bypass the model's system instructions, which explicitly
 
 ---
 
-### Script evolution (how I iterated and fixed bugs)
+### Prompt Evolution
 
 This challenge was solved through manual interaction and prompt engineering. The process was one of continuous adaptation as the difficulty increased.
 
@@ -132,7 +132,7 @@ Prometheon — это челлендж на инъекцию промптов, �
 
 ---
 
-## Эволюция скриптов (как я думал и исправлял ошибки)
+## Эволюция промптов (как я думал и исправлял ошибки)
 
 Челлендж решался вручную через инженерию промптов. Процесс требовал постоянной адаптации по мере роста сложности.
 
