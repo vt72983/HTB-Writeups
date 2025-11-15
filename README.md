@@ -1,4 +1,4 @@
-![general](general.png)
+![general](general.jpg)
 
 [**🇬🇧 English Version**](#-english-version) | [**🇷🇺 Русская версия**](#-русская-версия)
 
