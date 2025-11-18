@@ -18,6 +18,7 @@ Each solution is accompanied by analysis, a step-by-step explanation, scripts, a
 
 | Category | Name | Difficulty | Link |
 |------------|-----------|------------|--------|
+| 🌐 Web | **Magical Palindrome** | Very Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/tree/main/Magical%20Palindrome#english) |
 | 🧩 Quantum | **Flagportation** | Very Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Flagportation/README.md#english) |
 | 🧩 Quantum | **Global Hyperlink Zone** | Very Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Global-Hyperlink-Zone/README.md#english) |
 | 🧩 Quantum | **Phase Madness** | Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Phase%20Madness/README.md#english) |
@@ -71,6 +72,7 @@ If you want to discuss solutions, suggest an idea, or collaborate:
 
 | Категория | Название | Сложность | Ссылка |
 |------------|-----------|------------|--------|
+| 🌐 Web | **Magical Palindrome** | Very Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/tree/main/Magical%20Palindrome#русский) |
 | 🧩 Quantum | **Flagportation** | Very Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Flagportation/README.md#русский) |
 | 🧩 Quantum | **Global Hyperlink Zone** | Very Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Global-Hyperlink-Zone/README.md#русский) |
 | 🧩 Quantum | **Phase Madness** | Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Phase%20Madness/README.md#русский) |
