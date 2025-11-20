@@ -32,6 +32,7 @@ Each solution is accompanied by analysis, a step-by-step explanation, scripts, a
 | ⚙️ Reversing | **Maze** | Medium | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Maze/README.md#english) |
 | 🎮 GamePwn | **Nostalgia** | Medium | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Nostalgia/README.md#english) |
 | 🧠 AI - ML | **Prometheon** | Medium | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Prometheon/readme.md#english) |
+| 🔐 Crypto | **Rhome** | Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Rhome/README.md#english) |
 
 ---
 
@@ -87,9 +88,10 @@ If you want to discuss solutions, suggest an idea, or collaborate:
 | ⚙️ Reversing | **Rega's Town** | Medium | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Rega's%20Town/README.md#русский) |
 | ⚙️ Reversing | **Wayback** | Medium | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Wayback/README.md#русский) |
 | ⚙️ Reversing | **Virtually Mad** | Medium | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Virtually%20Mad/README.md#русский) |
-| ⚙️ Reversing | **Maze** | Medium | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Maze/README.md#english) |
+| ⚙️ Reversing | **Maze** | Medium | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Maze/README.md#русский) |
 | 🎮 GamePwn | **Nostalgia** | Medium | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Nostalgia/README.md#русский) |
 | 🧠 AI - ML | **Prometheon** | Medium | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Prometheon/readme.md#русский) |
+| 🔐 Crypto | **Rhome** | Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Rhome/README.md#русский) |
 
 ---
 
