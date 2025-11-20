@@ -33,6 +33,7 @@ Each solution is accompanied by analysis, a step-by-step explanation, scripts, a
 | 🎮 GamePwn | **Nostalgia** | Medium | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Nostalgia/README.md#english) |
 | 🧠 AI - ML | **Prometheon** | Medium | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Prometheon/readme.md#english) |
 | 🔐 Crypto | **Rhome** | Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Rhome/README.md#english) |
+| 🔐 Crypto | **Wonky AES** | Insane | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Wonky%20AES/README.md#english) |
 
 ---
 
@@ -92,6 +93,7 @@ If you want to discuss solutions, suggest an idea, or collaborate:
 | 🎮 GamePwn | **Nostalgia** | Medium | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Nostalgia/README.md#русский) |
 | 🧠 AI - ML | **Prometheon** | Medium | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Prometheon/readme.md#русский) |
 | 🔐 Crypto | **Rhome** | Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Rhome/README.md#русский) |
+| 🔐 Crypto | **Wonky AES** | Insane | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Wonky%20AES/README.md#русский) |
 
 ---
 
