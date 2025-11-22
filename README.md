@@ -22,6 +22,7 @@ Each solution is accompanied by analysis, a step-by-step explanation, scripts, a
 | 🧩 Quantum | **Flagportation** | Very Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Flagportation/README.md#english) |
 | 🧩 Quantum | **Global Hyperlink Zone** | Very Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Global-Hyperlink-Zone/README.md#english) |
 | 🧩 Quantum | **Phase Madness** | Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Phase%20Madness/README.md#english) |
+| 🧩 Quantum | **QLotto** | Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/QLotto/README.md#english) |
 | ⚙️ Reversing | **Exatlon** | Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Exatlon/readme.md#english) |
 | ⚙️ Reversing | **Hubbub** | Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Hubbub/README.md#english) |
 | ⚙️ Reversing | **Bypass** | Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Bypass/README.md#english) |
@@ -82,6 +83,7 @@ If you want to discuss solutions, suggest an idea, or collaborate:
 | 🧩 Quantum | **Flagportation** | Very Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Flagportation/README.md#русский) |
 | 🧩 Quantum | **Global Hyperlink Zone** | Very Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Global-Hyperlink-Zone/README.md#русский) |
 | 🧩 Quantum | **Phase Madness** | Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Phase%20Madness/README.md#русский) |
+| 🧩 Quantum | **QLotto** | Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/QLotto/README.md#русский) |
 | ⚙️ Reversing | **Exatlon** | Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Exatlon/readme.md#русский) |
 | ⚙️ Reversing | **Hubbub** | Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Hubbub/README.md#русский) |
 | ⚙️ Reversing | **Bypass** | Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Bypass/README.md#русский) |
