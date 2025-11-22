@@ -17,7 +17,7 @@ Each solution is accompanied by analysis, a step-by-step explanation, scripts, a
 ## 📜 Solved Challenges
 
 <details>
-<summary><strong>⚙️ Reversing</strong> (8)</summary>
+<summary><strong>⚙️ Reversing</strong> (9)</summary>
 
 | Name | Difficulty | Solution |
 |------|------------|----------|
@@ -83,11 +83,12 @@ Each solution is accompanied by analysis, a step-by-step explanation, scripts, a
 </details>
 
 <details>
-<summary><strong>👽 Misc</strong> (1)</summary>
+<summary><strong>👽 Misc</strong> (2)</summary>
 
 | Name | Difficulty | Solution |
 |------|------------|----------|
 | **Not Posixtive** | Easy | [📖 Read](https://github.com/vt72983/HTB-Writeups/blob/main/Not%20Posixtive/README.md#english) |
+| **Broken Shell** | Easy | [📖 Read](https://github.com/vt72983/HTB-Writeups/blob/main/Broken%20Shell/README.md#english) |
 
 </details>
 
@@ -135,7 +136,7 @@ If you want to discuss solutions, suggest an idea, or collaborate:
 ## 📜 Решённые задачи
 
 <details>
-<summary><strong>⚙️ Reversing</strong> (8)</summary>
+<summary><strong>⚙️ Reversing</strong> (9)</summary>
 
 | Название | Сложность | Решение |
 |----------|-----------|---------|
@@ -201,11 +202,12 @@ If you want to discuss solutions, suggest an idea, or collaborate:
 </details>
 
 <details>
-<summary><strong>👽 Misc</strong> (1)</summary>
+<summary><strong>👽 Misc</strong> (2)</summary>
 
 | Name | Difficulty | Solution |
 |------|------------|----------|
 | **Not Posixtive** | Easy | [📖 Читать](https://github.com/vt72983/HTB-Writeups/blob/main/Not%20Posixtive/README.md#русский) |
+| **Broken Shell** | Easy | [📖 Читать](https://github.com/vt72983/HTB-Writeups/blob/main/Broken%20Shell/README.md#русский) |
 
 </details>
 
