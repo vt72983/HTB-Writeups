@@ -82,6 +82,15 @@ Each solution is accompanied by analysis, a step-by-step explanation, scripts, a
 
 </details>
 
+<details>
+<summary><strong>👽 Misc</strong> (1)</summary>
+
+| Name | Difficulty | Solution |
+|------|------------|----------|
+| **Not Posixtive** | Easy | [📖 Read](https://github.com/vt72983/HTB-Writeups/blob/main/Not%20Posixtive/README.md#english) |
+
+</details>
+
 <br>
 
 ---
@@ -188,6 +197,15 @@ If you want to discuss solutions, suggest an idea, or collaborate:
 | Название | Сложность | Решение |
 |----------|-----------|---------|
 | **Prometheon** | Medium | [📖 Читать](https://github.com/vt72983/HTB-Writeups/blob/main/Prometheon/readme.md#русский) |
+
+</details>
+
+<details>
+<summary><strong>👽 Misc</strong> (1)</summary>
+
+| Name | Difficulty | Solution |
+|------|------------|----------|
+| **Not Posixtive** | Easy | [📖 Читать](https://github.com/vt72983/HTB-Writeups/blob/main/Not%20Posixtive/README.md#русский) |
 
 </details>
 
