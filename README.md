@@ -16,25 +16,72 @@ Each solution is accompanied by analysis, a step-by-step explanation, scripts, a
 
 ## 📜 Solved Challenges
 
-| Category | Name | Difficulty | Link |
-|------------|-----------|------------|--------|
-| 🌐 Web | **Magical Palindrome** | Very Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/tree/main/Magical%20Palindrome#english) |
-| 🧩 Quantum | **Flagportation** | Very Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Flagportation/README.md#english) |
-| 🧩 Quantum | **Global Hyperlink Zone** | Very Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Global-Hyperlink-Zone/README.md#english) |
-| 🧩 Quantum | **Phase Madness** | Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Phase%20Madness/README.md#english) |
-| 🧩 Quantum | **QLotto** | Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/QLotto/README.md#english) |
-| ⚙️ Reversing | **Exatlon** | Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Exatlon/readme.md#english) |
-| ⚙️ Reversing | **Hubbub** | Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Hubbub/README.md#english) |
-| ⚙️ Reversing | **Bypass** | Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Bypass/README.md#english) |
-| ⚙️ Reversing | **BinCrypt Breaker** | Medium | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/BinCrypt%20Breaker/README.md#english) |
-| ⚙️ Reversing | **Rega's Town** | Medium | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Rega's%20Town/README.md#english) |
-| ⚙️ Reversing | **Wayback** | Medium | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Wayback/README.md#english) |
-| ⚙️ Reversing | **Virtually Mad** | Medium | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Virtually%20Mad/README.md#english) |
-| ⚙️ Reversing | **Maze** | Medium | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Maze/README.md#english) |
-| 🎮 GamePwn | **Nostalgia** | Medium | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Nostalgia/README.md#english) |
-| 🧠 AI - ML | **Prometheon** | Medium | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Prometheon/readme.md#english) |
-| 🔐 Crypto | **Rhome** | Easy | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Rhome/README.md#english) |
-| 🔐 Crypto | **Wonky AES** | Insane | [📖 Read write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Wonky%20AES/README.md#english) |
+<details>
+<summary><strong>⚙️ Reversing</strong> (8)</summary>
+
+| Name | Difficulty | Solution |
+|------|------------|----------|
+| **Exatlon** | Easy | [📖 Read](https://github.com/vt72983/HTB-Writeups/blob/main/Exatlon/readme.md#english) |
+| **Hubbub** | Easy | [📖 Read](https://github.com/vt72983/HTB-Writeups/blob/main/Hubbub/README.md#english) |
+| **Bypass** | Easy | [📖 Read](https://github.com/vt72983/HTB-Writeups/blob/main/Bypass/README.md#english) |
+| **BinCrypt Breaker** | Medium | [📖 Read](https://github.com/vt72983/HTB-Writeups/blob/main/BinCrypt%20Breaker/README.md#english) |
+| **Rega's Town** | Medium | [📖 Read](https://github.com/vt72983/HTB-Writeups/blob/main/Rega's%20Town/README.md#english) |
+| **Wayback** | Medium | [📖 Read](https://github.com/vt72983/HTB-Writeups/blob/main/Wayback/README.md#english) |
+| **Virtually Mad** | Medium | [📖 Read](https://github.com/vt72983/HTB-Writeups/blob/main/Virtually%20Mad/README.md#english) |
+| **Maze** | Medium | [📖 Read](https://github.com/vt72983/HTB-Writeups/blob/main/Maze/README.md#english) |
+
+</details>
+
+<details>
+<summary><strong>🧩 Quantum</strong> (4)</summary>
+
+| Name | Difficulty | Solution |
+|------|------------|----------|
+| **Flagportation** | Very Easy | [📖 Read](https://github.com/vt72983/HTB-Writeups/blob/main/Flagportation/README.md#english) |
+| **Global Hyperlink Zone**| Very Easy | [📖 Read](https://github.com/vt72983/HTB-Writeups/blob/main/Global-Hyperlink-Zone/README.md#english) |
+| **Phase Madness** | Easy | [📖 Read](https://github.com/vt72983/HTB-Writeups/blob/main/Phase%20Madness/README.md#english) |
+| **QLotto** | Easy | [📖 Read](https://github.com/vt72983/HTB-Writeups/blob/main/QLotto/README.md#english) |
+
+</details>
+
+<details>
+<summary><strong>🔐 Crypto</strong> (2)</summary>
+
+| Name | Difficulty | Solution |
+|------|------------|----------|
+| **Rhome** | Easy | [📖 Read](https://github.com/vt72983/HTB-Writeups/blob/main/Rhome/README.md#english) |
+| **Wonky AES** | Insane | [📖 Read](https://github.com/vt72983/HTB-Writeups/blob/main/Wonky%20AES/README.md#english) |
+
+</details>
+
+<details>
+<summary><strong>🌐 Web</strong> (1)</summary>
+
+| Name | Difficulty | Solution |
+|------|------------|----------|
+| **Magical Palindrome** | Very Easy | [📖 Read](https://github.com/vt72983/HTB-Writeups/tree/main/Magical%20Palindrome/README.md#english) |
+
+</details>
+
+<details>
+<summary><strong>🎮 GamePwn</strong> (1)</summary>
+
+| Name | Difficulty | Solution |
+|------|------------|----------|
+| **Nostalgia** | Medium | [📖 Read](https://github.com/vt72983/HTB-Writeups/blob/main/Nostalgia/README.md#english) |
+
+</details>
+
+<details>
+<summary><strong>🧠 AI - ML</strong> (1)</summary>
+
+| Name | Difficulty | Solution |
+|------|------------|----------|
+| **Prometheon** | Medium | [📖 Read](https://github.com/vt72983/HTB-Writeups/blob/main/Prometheon/readme.md#english) |
+
+</details>
+
+<br>
 
 ---
 
@@ -77,25 +124,72 @@ If you want to discuss solutions, suggest an idea, or collaborate:
 
 ## 📜 Решённые задачи
 
-| Категория | Название | Сложность | Ссылка |
-|------------|-----------|------------|--------|
-| 🌐 Web | **Magical Palindrome** | Very Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/tree/main/Magical%20Palindrome#русский) |
-| 🧩 Quantum | **Flagportation** | Very Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Flagportation/README.md#русский) |
-| 🧩 Quantum | **Global Hyperlink Zone** | Very Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Global-Hyperlink-Zone/README.md#русский) |
-| 🧩 Quantum | **Phase Madness** | Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Phase%20Madness/README.md#русский) |
-| 🧩 Quantum | **QLotto** | Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/QLotto/README.md#русский) |
-| ⚙️ Reversing | **Exatlon** | Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Exatlon/readme.md#русский) |
-| ⚙️ Reversing | **Hubbub** | Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Hubbub/README.md#русский) |
-| ⚙️ Reversing | **Bypass** | Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Bypass/README.md#русский) |
-| ⚙️ Reversing | **BinCrypt Breaker** | Medium | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/BinCrypt%20Breaker/README.md#русский) |
-| ⚙️ Reversing | **Rega's Town** | Medium | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Rega's%20Town/README.md#русский) |
-| ⚙️ Reversing | **Wayback** | Medium | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Wayback/README.md#русский) |
-| ⚙️ Reversing | **Virtually Mad** | Medium | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Virtually%20Mad/README.md#русский) |
-| ⚙️ Reversing | **Maze** | Medium | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Maze/README.md#русский) |
-| 🎮 GamePwn | **Nostalgia** | Medium | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Nostalgia/README.md#русский) |
-| 🧠 AI - ML | **Prometheon** | Medium | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Prometheon/readme.md#русский) |
-| 🔐 Crypto | **Rhome** | Easy | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Rhome/README.md#русский) |
-| 🔐 Crypto | **Wonky AES** | Insane | [📖 Читать write-up](https://github.com/vt72983/HTB-Writeups/blob/main/Wonky%20AES/README.md#русский) |
+<details>
+<summary><strong>⚙️ Reversing</strong> (8)</summary>
+
+| Название | Сложность | Решение |
+|----------|-----------|---------|
+| **Exatlon** | Easy | [📖 Читать](https://github.com/vt72983/HTB-Writeups/blob/main/Exatlon/readme.md#русский) |
+| **Hubbub** | Easy | [📖 Читать](https://github.com/vt72983/HTB-Writeups/blob/main/Hubbub/README.md#русский) |
+| **Bypass** | Easy | [📖 Читать](https://github.com/vt72983/HTB-Writeups/blob/main/Bypass/README.md#русский) |
+| **BinCrypt Breaker** | Medium | [📖 Читать](https://github.com/vt72983/HTB-Writeups/blob/main/BinCrypt%20Breaker/README.md#русский) |
+| **Rega's Town** | Medium | [📖 Читать](https://github.com/vt72983/HTB-Writeups/blob/main/Rega's%20Town/README.md#русский) |
+| **Wayback** | Medium | [📖 Читать](https://github.com/vt72983/HTB-Writeups/blob/main/Wayback/README.md#русский) |
+| **Virtually Mad** | Medium | [📖 Читать](https://github.com/vt72983/HTB-Writeups/blob/main/Virtually%20Mad/README.md#русский) |
+| **Maze** | Medium | [📖 Читать](https://github.com/vt72983/HTB-Writeups/blob/main/Maze/README.md#русский) |
+
+</details>
+
+<details>
+<summary><strong>🧩 Quantum</strong> (4)</summary>
+
+| Название | Сложность | Решение |
+|----------|-----------|---------|
+| **Flagportation** | Very Easy | [📖 Читать](https://github.com/vt72983/HTB-Writeups/blob/main/Flagportation/README.md#русский) |
+| **Global Hyperlink Zone**| Very Easy | [📖 Читать](https://github.com/vt72983/HTB-Writeups/blob/main/Global-Hyperlink-Zone/README.md#русский) |
+| **Phase Madness** | Easy | [📖 Читать](https://github.com/vt72983/HTB-Writeups/blob/main/Phase%20Madness/README.md#русский) |
+| **QLotto** | Easy | [📖 Читать](https://github.com/vt72983/HTB-Writeups/blob/main/QLotto/README.md#русский) |
+
+</details>
+
+<details>
+<summary><strong>🔐 Crypto</strong> (2)</summary>
+
+| Название | Сложность | Решение |
+|----------|-----------|---------|
+| **Rhome** | Easy | [📖 Читать](https://github.com/vt72983/HTB-Writeups/blob/main/Rhome/README.md#русский) |
+| **Wonky AES** | Insane | [📖 Читать](https://github.com/vt72983/HTB-Writeups/blob/main/Wonky%20AES/README.md#русский) |
+
+</details>
+
+<details>
+<summary><strong>🌐 Web</strong> (1)</summary>
+
+| Название | Сложность | Решение |
+|----------|-----------|---------|
+| **Magical Palindrome** | Very Easy | [📖 Читать](https://github.com/vt72983/HTB-Writeups/tree/main/Magical%20Palindrome/README.md#русский) |
+
+</details>
+
+<details>
+<summary><strong>🎮 GamePwn</strong> (1)</summary>
+
+| Название | Сложность | Решение |
+|----------|-----------|---------|
+| **Nostalgia** | Medium | [📖 Читать](https://github.com/vt72983/HTB-Writeups/blob/main/Nostalgia/README.md#русский) |
+
+</details>
+
+<details>
+<summary><strong>🧠 AI - ML</strong> (1)</summary>
+
+| Название | Сложность | Решение |
+|----------|-----------|---------|
+| **Prometheon** | Medium | [📖 Читать](https://github.com/vt72983/HTB-Writeups/blob/main/Prometheon/readme.md#русский) |
+
+</details>
+
+<br>
 
 ---
 
