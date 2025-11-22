@@ -83,7 +83,7 @@ Each solution is accompanied by analysis, a step-by-step explanation, scripts, a
 </details>
 
 <details>
-<summary><strong>👽 Misc</strong> (2)</summary>
+<summary><strong>👽 Misc</strong> (3)</summary>
 
 | Name | Difficulty | Solution |
 |------|------------|----------|
@@ -203,7 +203,7 @@ If you want to discuss solutions, suggest an idea, or collaborate:
 </details>
 
 <details>
-<summary><strong>👽 Misc</strong> (2)</summary>
+<summary><strong>👽 Misc</strong> (3)</summary>
 
 | Name | Difficulty | Solution |
 |------|------------|----------|
