@@ -89,6 +89,7 @@ Each solution is accompanied by analysis, a step-by-step explanation, scripts, a
 |------|------------|----------|
 | **Not Posixtive** | Easy | [📖 Read](https://github.com/vt72983/HTB-Writeups/blob/main/Not%20Posixtive/README.md#english) |
 | **Broken Shell** | Easy | [📖 Read](https://github.com/vt72983/HTB-Writeups/blob/main/Broken%20Shell/README.md#english) |
+| **Micro Storage** | Easy | [📖 Read](https://github.com/vt72983/HTB-Writeups/blob/main/Micro%20Storage/README.md#english) |
 
 </details>
 
@@ -208,6 +209,7 @@ If you want to discuss solutions, suggest an idea, or collaborate:
 |------|------------|----------|
 | **Not Posixtive** | Easy | [📖 Читать](https://github.com/vt72983/HTB-Writeups/blob/main/Not%20Posixtive/README.md#русский) |
 | **Broken Shell** | Easy | [📖 Читать](https://github.com/vt72983/HTB-Writeups/blob/main/Broken%20Shell/README.md#русский) |
+| **Micro Storage** | Easy | [📖 Читать](https://github.com/vt72983/HTB-Writeups/blob/main/Micro%20Storage/README.md#русский) |
 
 </details>
 
