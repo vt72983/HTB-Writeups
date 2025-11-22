@@ -121,6 +121,8 @@ I didn't even open my beloved IDA Pro T_T.
 
 `HTB{cU510m_I54_aNd_eMuL4t10n_4r3_fUn}` easy?...
 
+![flag](flag.png)
+
 ---
 
 ## Русский
@@ -248,3 +250,5 @@ I didn't even open my beloved IDA Pro T_T.
 Я даже ida pro свою любимую не открывал T_T.
 
 И получаем флаг... `HTB{cU510m_I54_aNd_eMuL4t10n_4r3_fUn}` легко?...
+
+![flag](flag.png)
