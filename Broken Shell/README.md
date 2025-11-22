@@ -132,7 +132,7 @@ And just like that, we got another easy-peasy flag.
 
 ## Краткое описание
 
-И так нам дали описание: "We've built a secure sandbox environment that only allows specific symbols and numbers. It's designed to be inescapable—security at its best!"
+И так нам дали описание: "Мы создали безопасную среду «песочницы», которая допускает только определённые символы и числа. Она спроектирована так, чтобы из неё нельзя было выйти — это лучшая защита!"
 
 Безопасность говорите да?)
 Щас проверим.
