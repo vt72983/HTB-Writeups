@@ -29,6 +29,7 @@ Each solution is accompanied by analysis, a step-by-step explanation, scripts, a
 | **Wayback** | Medium | [📖 Read](https://github.com/vt72983/HTB-Writeups/blob/main/Wayback/README.md#english) |
 | **Virtually Mad** | Medium | [📖 Read](https://github.com/vt72983/HTB-Writeups/blob/main/Virtually%20Mad/README.md#english) |
 | **Maze** | Medium | [📖 Read](https://github.com/vt72983/HTB-Writeups/blob/main/Maze/README.md#english) |
+| **Hexecution** | hard | [📖 Read](https://github.com/vt72983/HTB-Writeups/blob/main/Hexecution/README.md#english) |
 
 </details>
 
@@ -137,6 +138,7 @@ If you want to discuss solutions, suggest an idea, or collaborate:
 | **Wayback** | Medium | [📖 Читать](https://github.com/vt72983/HTB-Writeups/blob/main/Wayback/README.md#русский) |
 | **Virtually Mad** | Medium | [📖 Читать](https://github.com/vt72983/HTB-Writeups/blob/main/Virtually%20Mad/README.md#русский) |
 | **Maze** | Medium | [📖 Читать](https://github.com/vt72983/HTB-Writeups/blob/main/Maze/README.md#русский) |
+| **Hexecution** | hard | [📖 Читать](https://github.com/vt72983/HTB-Writeups/blob/main/Hexecution/README.md#русский) |
 
 </details>
 
